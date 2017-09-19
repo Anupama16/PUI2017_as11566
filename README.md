@@ -9,7 +9,8 @@
 
 3. Saved it in my bash profile
 
-Below are the screenshots
+Below are the screenshots:
 
 ![Alt text](Screenshots/bash_profile.PNG)
-![Alt text](Screenshots/bash_profile.PNG)
+
+![Alt text](Screenshots/alias.PNG)
