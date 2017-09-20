@@ -16,3 +16,6 @@ Below are the screenshots:
 ![Alt text](Screenshots/bash_profile.PNG)
 
 ![Alt text](Screenshots/alias.PNG)
+
+# Assignment 3
+Completed the challenge with help from Gaurav
