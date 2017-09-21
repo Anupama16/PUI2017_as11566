@@ -18,4 +18,6 @@ Below are the screenshots:
 ![Alt text](Screenshots/alias.PNG)
 
 # Assignment 3
-Completed the challenge with help from Gaurav
+Completed the challenge
+
+Discussed the different functions to be used in the challenge and its implementation with Gaurav
