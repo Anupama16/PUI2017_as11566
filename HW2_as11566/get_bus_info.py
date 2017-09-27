@@ -36,5 +36,5 @@ for i in range(Count_bus):
     else: 
         stop_status = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'][0]['Extensions']['Distances']['PresentableDistance'] 
 
-fout.write("%s,%s,%s,%s" %(Lat, Long, stop_name, stop_status))
+fout.write("/n%s,%s,%s,%s" %(Lat, Long, stop_name, stop_status))
 
