@@ -10,3 +10,8 @@ Wrote a Python script that displays information on the next stop location of all
 
 # Assignment 3: Read CSV files with pandas
 
+1. Checked for the environment variable
+
+2. Accessed data from CDF
+
+3. Manipulated the dataframe and added plot
