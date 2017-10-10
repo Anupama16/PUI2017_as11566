@@ -9,7 +9,7 @@ The idea looks good. The null hypothesis seems misleading as it is stated in ter
 I would update the null hypothesis to be:
 > The ratio of young people biking on *weekdays* over young people biking on *weekends* is *less than or equal* to the ratio of old people biking over *weekdays* to people biking on *weekends*.
 
-The alternative hypothesis is missing, so that should be added as the inverse of the null hypothesis (i.e. instead of $\leq$ use $>$).
+The alternative hypothesis is missing, so that should be added as the inverse of the null hypothesis (i.e. instead of <= use >).
 
 Also, the classification of old/young is not defined in the hypothesis. This should be clarified as some age threshold stated in the hypothesis.
 E.g.
