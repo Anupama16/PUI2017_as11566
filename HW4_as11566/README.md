@@ -23,3 +23,11 @@ Chi-Square test for categorical variables and t-test for continuous variables	| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Path Analysis	| 5, Gender,General knowledge,Health concept, Infectious knowledge, School Performance, Health Skills | Continuous and Categorical | 1, Health behavior | continuous |  1, Age | Continuous or Categorical  | 	Do Gender,General knowledge,Health concept, Infectious knowledge, School Performance, Health Skills have an effect on health behaviors in adolescents | Gender,General knowledge,Health concept, Infectious knowledge, School Performance, Health Skills have no significal direct or indirect effect on Health Behaviour in Adolescents | 0.05 | [Path Analysis to Identify Factors Influencing Health Skills and Behaviors in Adolescents](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104406) |
   |||||||||
+
+
+| **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+Logistic Regression	| 3, Forward scatter, Side scatter, Fluorescence intensities  | Continuous(Numeric) | 1, AML | categorical |  2, Cell size(forward scatter); Cell granuality(side scatter) | numeric  | 	How to accurately predict the specific subtype of AML? | AUCs of the ROC and PR curves are the same | 0.05 | [Path Analysis to Identify Factors Influencing Health Skills and Behaviors in Adolescents](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104406) |
+  |||||||||
+
+
