@@ -18,4 +18,4 @@ Worked independently
 
 ## Assignment 3: investigate linear relationships between fire arm possession, homicides by fire arms, and mass shootings for different countries, considering also the country GDP
 
-Followed Professor Bianco's skeleton notebook. Took help from Rachel Lim on plotting OLS and WLS functions
+Followed Professor Bianco's skeleton notebook. Took help from Rachel Lim in plotting OLS and WLS functions
