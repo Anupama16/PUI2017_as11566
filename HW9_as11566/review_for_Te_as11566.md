@@ -1,3 +1,5 @@
+# Peer Review (Author: Anupama Santhosh)
+
 ![image of asthma vs. taxi](https://github.com/td928/PUI2017_td928/blob/master/HW8_td928/asthma_taxi.png)
 
 
@@ -15,6 +17,6 @@ Esthetic: The figure is complies with a standard line fit plot. Some suggestions
 Equation could have been on the top right corner. It now slightly overlaps with the data. The correlation figure could have been included within the plot as agianst 
 having it with the title. Overall it looks neat.
 
-Honesty: Te has honestly reproduced the data and plotted  the figure. References to the data would have backed it up. It looks like an original plot but the chosen 
+Honesty: Te has honestly reproduced the data and plotted the figure. References to the data would have backed it up. It looks like an original plot but the chosen 
 variables could have been of more pertinence. 
 
