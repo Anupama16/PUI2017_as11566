@@ -7,7 +7,7 @@ _*Fig.*_ asthma and taxi trips ended in the same zip code. Notice majority of th
 taxi trips ended in them. Yet, for those zipcode the variation in discharge rate for asthma hospitalization is very large. 
 This might indicate some aspects of the hospitalization discharge rate is not influenced by the taxi trips.
 
-** Review for the plot **
+## Review for the plot
 
 Clarity: The plot is easy to read with the titles and the caption. But what the plot is trying to convey is a bit ambiguous. The variables arent correlated and
 no clear relationship seem to exist between the chosen variables. Had there been a good correlation, it could have been a good example of "Correlation doesn't 
