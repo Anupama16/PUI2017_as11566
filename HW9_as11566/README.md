@@ -1,6 +1,6 @@
-## Assignment 1: Review of plots
-Reviewed visualizations of classmates for this Assignment 
+## Part 1
+Reviewed visualizations of classmates HongKai and Te for this Assignment 
 
-## Assignment 2: Spatial Exploratory Analysis of Census Data
+## Part 2
 Took help from Rachel to download PUMA shapefile
 Otherwise worked independently
