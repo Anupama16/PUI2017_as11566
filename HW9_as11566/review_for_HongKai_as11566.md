@@ -23,4 +23,5 @@ variables could have been of more pertinence.
 
 # FBB here honesty does not really refer to is the data manipulated, but is the visualization trying to suggest something that is not suported by the data. I would argue that extrapolating this fit over the hige x range when most data is near x=0 and there the data obviously does not follow the fit can be considered "dishonest" in this sense
 
+# FBB also: labels are too small, and plot is blurry
 9/10
