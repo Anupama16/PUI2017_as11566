@@ -15,5 +15,13 @@ values of the two fits would have added more value.
 Esthetic: The plot looks neat with the choice of colours. The axis titles and plot title have been been specified but caption would have been more 
 informative. The outliers seem to affect the fit lines and doesnt portray the true fit. 
 
+# FBB the plot violates color blindness safety rules as red and green are indistinguishable to the most common kind of color blindness
+
+
 Honesty: HongKai has honestly reproduced the data and plotted the figure. References to the data would have backed it up. It looks like an original plot but the chosen 
 variables could have been of more pertinence. 
+
+# FBB here honesty does not really refer to is the data manipulated, but is the visualization trying to suggest something that is not suported by the data. I would argue that extrapolating this fit over the hige x range when most data is near x=0 and there the data obviously does not follow the fit can be considered "dishonest" in this sense
+
+# FBB also: labels are too small, and plot is blurry
+9/10

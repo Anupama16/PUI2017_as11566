@@ -11,12 +11,19 @@ This might indicate some aspects of the hospitalization discharge rate is not in
 
 Clarity: The plot is easy to read with the titles and the caption. But what the plot is trying to convey is a bit ambiguous. The variables arent correlated and
 no clear relationship seem to exist between the chosen variables. Had there been a good correlation, it could have been a good example of "Correlation doesn't 
-necessarily mean correlation" plots. But from a visualization stand point, the plot is clear and complete with respect to the captions and titles
+necessarily mean correlation" 
+
+# FBB correlation does not necessarily mean *causation*
+
+plots. But from a visualization stand point, the plot is clear and complete with respect to the captions and titles
 
 Esthetic: The figure is complies with a standard line fit plot. Some suggestions - The figure size could have been bigger so as to avoid cluttering around zero.
 Equation could have been on the top right corner. It now slightly overlaps with the data. The correlation figure could have been included within the plot as agianst 
 having it with the title. Overall it looks neat.
 
+# FBB the fit equation should be moved where it does not overlap the data, especially since there is aboundant empty space in the plot
 Honesty: Te has honestly reproduced the data and plotted the figure. References to the data would have backed it up. It looks like an original plot but the chosen 
 variables could have been of more pertinence. 
 
+# FBB fine
+10/10
